@@ -1,0 +1,4 @@
+﻿  lab2с++.cpp
+D:\year 2 sem 1\course_work_c++\lab2с++\lab2с++\lab2с++.cpp(177,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\year 2 sem 1\course_work_c++\lab2с++\lab2с++\lab2с++.cpp(109): warning C4715: 'Skyscaper::isOpened': not all control paths return a value
+  lab2с++.vcxproj -> D:\year 2 sem 1\course_work_c++\lab2с++\x64\Debug\lab2с++.exe
